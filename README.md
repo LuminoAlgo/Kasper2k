@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -9,7 +9,7 @@
 - 🔭 Currently studying game hacking  
   
 
-- 🌱 Learning c++, c#, javascript and html  
+- 🌱 Learning C++, C# and JavaScript  
   
 
 - ❓ You can ask me about anything related to game hacking  
@@ -23,18 +23,28 @@
 
 
 
-</td><td valign="top" width="33%">
-
+### JavaScript  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
+
+### C++  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### C#  
+<div align="center">  
+  
+</div>
 
 </td></tr></table>  
 
