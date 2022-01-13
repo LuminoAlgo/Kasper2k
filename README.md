@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">Welcome to my github page</div>  
+### <div align="center">I'm Kasper2k, 14 and a newer programmer.</div>  
   
 
-- 🔭 Currently studying game hacking  
+- 🔭 I’m currently working on a Crypto Price Predictor Neural Network in Python  
   
 
-- 🌱 Learning C++, C# and JavaScript  
-  
-
-- ❓ You can ask me about anything related to game hacking  
+- 🌱 I’m currently learning Javascript, HTML and React.js  
   
 
 <br/>  
@@ -23,40 +20,37 @@
 
 
 
-### JavaScript  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### C++  
+### Good at:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### C#  
+### Decent at:  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Learning:  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
 
 </td></tr></table>  
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Kasper2k" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
@@ -67,7 +61,11 @@
 
 <br/>  
 
-  
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
@@ -75,6 +73,9 @@
 
 <br/>  
 
+
+
+### Visitor Counter  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Kasper2k&&style=flat-square" align="center" />
 </div>  
@@ -82,11 +83,5 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
