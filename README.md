@@ -62,19 +62,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21px2ruvoh5yq5natayhvfrhy&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-
-
 ### Visitor Counter  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Kasper2k&&style=flat-square" align="center" />
