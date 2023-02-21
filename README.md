@@ -6,10 +6,10 @@
 ### <div align="center">I'm Kasper2k</div>  
   
 
-- 🔭 I’m currently working on a Crypto Price Predictor Neural Network in Python  
+- 🔭 Doing gamehacking
   
 
-- 🌱 I’m currently learning Javascript, HTML and React.js  
+- 🌱 I’m currently learning Java, c++ and c#
   
 
 <br/>  
