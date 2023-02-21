@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kasper2k, 14 and a newer programmer.</div>  
+### <div align="center">I'm Kasper2k</div>  
   
 
 - 🔭 I’m currently working on a Crypto Price Predictor Neural Network in Python  
